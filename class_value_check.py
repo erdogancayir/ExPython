@@ -13,7 +13,7 @@ if (hasattr(ex_object, 'b')):
     print(ex_object.b)
  
 
-#---------------------------------
+#----------------------------------
 
 class ExampleClass:
     a = 1
