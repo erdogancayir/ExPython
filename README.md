@@ -18,3 +18,5 @@ it is subclass ? who does it belong to
 it is instance ?
 
 ![image](https://user-images.githubusercontent.com/94300378/210169347-c5806840-2204-49ae-9ea5-e2c5970e0e10.png)
+
+![image](https://user-images.githubusercontent.com/94300378/210169593-3bf9731b-5a19-41c5-a91c-d0bd4d8a1449.png)
