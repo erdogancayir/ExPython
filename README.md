@@ -10,3 +10,5 @@ private değişkene dışarıdan erişmek için
 __dict__ nesnenin class da sahip olduğu değişkenlere sahip olur
 
 ![image](https://user-images.githubusercontent.com/94300378/210166799-7dad38d5-66c8-4cbf-86f9-17fdcaddc12d.png)
+
+![image](https://user-images.githubusercontent.com/94300378/210167212-82181eff-4c22-4507-86eb-e19e363f5a51.png)
