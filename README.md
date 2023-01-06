@@ -24,3 +24,12 @@ it is instance ?
 two için dikkat
 
 ![image](https://user-images.githubusercontent.com/94300378/210169792-ef5f001a-a74f-451e-aa25-6a00b4576b4f.png)
+
+![Screenshot from 2022-11-17 02-07-10](https://user-images.githubusercontent.com/94300378/211003746-dfc75e2c-2494-4913-87aa-42f11b6f7689.png)
+
+![image](https://user-images.githubusercontent.com/94300378/211003763-672faf7d-59b7-4dc8-b2c6-2df6f6dd9a72.png)
+
+![Screenshot from 2022-11-14 23-47-51](https://user-images.githubusercontent.com/94300378/211003770-bbb33627-db1d-4351-8181-6685976ee4ea.png)
+
+![image(1)](https://user-images.githubusercontent.com/94300378/211003854-71d64b40-cd95-45ad-b28e-7e23c05d3177.png)
+
