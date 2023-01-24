@@ -39,3 +39,4 @@ two için dikkat
 ![image](https://user-images.githubusercontent.com/94300378/214396135-4ba619b3-2482-489a-8ee3-bcbb03c8959a.png)
 
 
+![image](https://user-images.githubusercontent.com/94300378/214407723-2e5ffc57-da2f-4f2a-bb7b-4bff7c63e7b3.png)
