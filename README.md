@@ -33,3 +33,6 @@ two için dikkat
 
 ![image(1)](https://user-images.githubusercontent.com/94300378/211003854-71d64b40-cd95-45ad-b28e-7e23c05d3177.png)
 
+![image](https://user-images.githubusercontent.com/94300378/214396135-4ba619b3-2482-489a-8ee3-bcbb03c8959a.png)
+
+
