@@ -1,6 +1,9 @@
 # ExPython
 Bir sınıf değişkeninin mevcut olup olmadığını öğrenmek için kullanabilirsiniz, tıpkı burada editördeki örnekte olduğu gibi.
 
+![image](https://user-images.githubusercontent.com/94300378/214439422-a2a0e0cc-bb40-442d-83f8-7a20471029b5.png)
+
+
 ![image](https://user-images.githubusercontent.com/94300378/210166668-0b51a1b2-83c3-49c4-832a-32243941d978.png)
 
 private değişkene dışarıdan erişmek için
