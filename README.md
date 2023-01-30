@@ -1,7 +1,6 @@
 # ExPython
 Bir sınıf değişkeninin mevcut olup olmadığını öğrenmek için kullanabilirsiniz, tıpkı burada editördeki örnekte olduğu gibi.
 
-![ray-so-export](https://user-images.githubusercontent.com/94300378/215445715-a1050191-708a-43a3-b01a-fa4077aa0315.png)
 
 ![image](https://user-images.githubusercontent.com/94300378/214439422-a2a0e0cc-bb40-442d-83f8-7a20471029b5.png)
 
